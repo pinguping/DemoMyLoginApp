@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Demo My Login App</string>
+    <string name="login">LOGIN</string>
+    <string name="cancel">CANCEL</string>
+    <string name="enterp">Enter Password</string>
+    <string name="enterfn">Enter Full Name</string>
+    <string name="name">Name: </string>
+
+</resources>
